@@ -11,7 +11,7 @@ if (num % 2) == 0:
 else:
    print("{0} is Odd".format(num))
    
-outline :
+output :
 Enter a number: 98
 98 is Even
 Enter a number: 21
