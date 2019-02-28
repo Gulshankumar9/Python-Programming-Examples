@@ -1,4 +1,8 @@
+#Name:Jahnavi T
+#Branch:CSE
+#Batch:AL-2
 
+#simple calculator
 def add(x, y):
    return x + y
 
