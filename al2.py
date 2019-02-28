@@ -39,3 +39,32 @@ elif choice == '4':
    print(num1,"/",num2,"=", divide(num1,num2))
 else:
    print("Invalid input")
+   
+   
+   
+   
+   
+   
+output:   
+   
+   Select operation.
+1.Add
+2.Subtract
+3.Multiply
+4.Divide
+Enter choice(1/2/3/4):1
+Enter first number: 12
+Enter second number: 36
+12 + 36 = 48
+Enter choice(1/2/3/4):2
+Enter first number: 88
+Enter second number: 66
+88 - 66 = 22
+Enter choice(1/2/3/4):3
+Enter first number: 45
+Enter second number: 67
+45 * 67 = 3015
+Enter choice(1/2/3/4):4
+Enter first number: 99
+Enter second number: 25
+99 / 25 = 3.96
