@@ -1,3 +1,8 @@
+Name:Jahnavi T
+Branch:CSE
+Batch:AL-3
+USN:18BBTCS045
+
 # Program to display the Fibonacci sequence up to n-th term where n is provided by the user
 
 # change this value for a different result
@@ -26,3 +31,8 @@ else:
        n1 = n2
        n2 = nth
        count += 1
+      
+      
+output:
+Fibonacci sequence upto 10 :
+0 , 1 , 1 , 2 , 3 , 5 , 8 , 13 , 21 , 34 
