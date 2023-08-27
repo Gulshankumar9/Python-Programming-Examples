@@ -1,4 +1,3 @@
-# kumar9686
 # My College Python Codes 🐍
 
 Hello there! 👋
